@@ -1,0 +1,81 @@
+body{
+  background-color: #E4F9F5;
+  margin: 0;
+  text-align: center;
+  font-family: sans-serif;
+  }
+  h1{
+  margin: 0 auto;
+  padding-top: 50px;
+  font-size: 10rem;
+  }
+p{
+  width: 40%;
+  margin: 20px auto;
+  font-size: 2rem;
+}
+hr{
+background-color: grey;
+border-top: dotted;
+border-bottom: none;
+width: 5%;
+font-weight: lighter;
+}
+h2{
+  font-size: 3rem;
+}
+h3{
+  font-size: 30px;
+}
+a{
+  color: #11999E;
+  margin: 10px 30px;
+  text-decoration: none;
+}
+
+.top-container{
+  background-color:  #66BFBF;
+  padding-top: 100px;
+}
+
+.middle-container{
+  background-color: #FDF6EC;
+}
+.copyright{
+  color: #EAF6F6
+}
+
+.bottom-container{
+background-color: pink;
+padding: 100px 0 20px;
+}
+.pro{
+  text-decoration: underline;
+}
+.contact-me{
+  margin: 50px auto;
+}
+.img{
+  width: 10%;
+}
+.profile{
+  margin: 20px auto;
+  padding: 20px;
+}
+.top-cloud{
+  position:absolute;
+  right: 300px;
+  top: 50px;
+
+}
+.bottom-cloud{
+  position: absolute;
+  bottom: 300px;
+  left: 200px;
+}
+.btn{
+  color: blue;
+}
+.btn:hover{
+  color: pink;
+}
